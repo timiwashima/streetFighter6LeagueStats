@@ -6,3 +6,5 @@ Visualize League Statistics for Street Fighter 6
 ![BreakdownByLeague](https://github.com/timiwashima/streetFighter6LeagueStats/assets/52045865/7050d4fb-1b06-42fa-bc0b-589fde415e8a)
 
 ![Figure 2023-08-22 130811](https://github.com/timiwashima/streetFighter6LeagueStats/assets/52045865/65e45806-64f0-4ac8-bcec-a9500fbb8796)
+
+![Figure 2023-08-23 144340](https://github.com/timiwashima/streetFighter6LeagueStats/assets/52045865/681a1cb2-ef67-425c-a8a0-6be404a0c443)
